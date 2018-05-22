@@ -1,0 +1,546 @@
+#container{
+width:960px;
+height:1000px;
+margin:0 auto;
+}
+#ustBanner{
+width:1024px;
+height:150px;
+}
+
+#arkaPlanFoto{
+width:1024px;
+height:150px;
+float:left;
+}
+
+#menu{
+width:1024px;
+height:38px;
+background-color:#274628;
+position:absolute;
+top:130px;
+left:195px;
+float:right;
+}
+
+#kasa_tipi{
+width:20px;
+height:20px;
+
+}
+
+#giris{
+font-size:16px;
+position:absolute;
+top:59px;
+left:635px;
+}
+#giris:hover{ 
+color:white;
+}
+#girisFoto{
+width:20px;
+height:20px;
+position:absolute;
+top:77px;
+left:612px;
+}
+
+
+h1{ 
+    display: block;
+	color:#fff;
+    font-size: 18px;
+    margin-top: 33px;
+    margin-bottom: 0.67em;
+    margin-left: 20px;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+
+#marka{
+
+width:160px;
+height:35px;
+position:absolute;
+top:60px;
+left:20px;
+float:right;
+}
+
+#motor_hacmi{
+
+width:160px;
+height:35px;
+position:absolute;
+top:60px;
+left:20px;
+float:right;
+}
+
+#kasa_tipi{
+
+width:160px;
+height:35px;
+position:absolute;
+top:60px;
+left:20px;
+float:right;
+}
+
+#yakit{
+
+width:160px;
+height:35px;
+position:absolute;
+top:60px;
+left:20px;
+float:right;
+}
+
+#fiyat{
+
+width:160px;
+height:35px;
+position:absolute;
+top:60px;
+left:20px;
+float:right;
+}
+
+h2{ 
+    display: block;
+	color:#fff;
+    font-size: 18px;
+    margin-top: 70px;
+    margin-bottom: 0.67em;
+    margin-left: 20px;
+    margin-right: 0;
+    font-weight: bold;
+}
+	
+	
+#motor_hacmi{
+
+width:160px;
+height:35px;
+position:absolute;
+top:150px;
+left:20px;
+float:right;
+}
+
+h3{ 
+    display: block;
+	color:#fff;
+    font-size: 18px;
+    margin-top: 70px;
+    margin-bottom: 0.67em;
+    margin-left: 20px;
+    margin-right: 0;
+    font-weight: bold;
+}	
+
+#kasa_tipi{
+
+width:160px;
+height:35px;
+position:absolute;
+top:240px;
+left:20px;
+float:right;
+}
+
+h4{ 
+    display: block;
+	color:#fff;
+    font-size: 17px;
+    margin-top: 70px;
+    margin-bottom: 0.67em;
+    margin-left: 20px;
+    margin-right: 0;
+    font-weight: bold;
+}	
+
+#yakit{
+
+width:160px;
+height:35px;
+position:absolute;
+top:330px;
+left:20px;
+float:right;
+}
+	
+h5{ 
+    display: block;
+	color:#fff;
+    font-size: 17px;
+    margin-top: 70px;
+    margin-bottom: 0.67em;
+    margin-left: 20px;
+    margin-right: 0;
+    font-weight: bold;
+}	
+
+#fiyat{
+
+width:160px;
+height:35px;
+position:absolute;
+top:420px;
+left:20px;
+float:right;
+}
+
+#buton{
+
+width:140px;
+height:35px;
+position:absolute;
+top:500px;
+left:30px;
+float:right;
+color:#fff;
+font-size:14px;
+font-weight:bold;
+background-color:#0d250b;
+}
+
+	
+#icerik{
+width:1024px;
+height:628px;
+background-color:#889475;
+position:absolute;
+top:180px;
+left:195px;
+}
+
+#icerik2{
+width:1024px;
+height:628px;
+background-color:#fff;
+position:absolute;
+top:180px;
+left:195px;
+}
+
+
+
+a{
+display:inline;
+color:#fff;
+font-size:18px;
+padding-left:150px;
+
+}
+ul{
+width:1024px;
+height:35px;
+}
+li:hover { 
+color:black;
+}
+
+
+#audi{
+	
+width:140px;
+height:90px;
+position:absolute;
+top:50px;
+left:20px;
+}
+#bmw{
+	
+width:140px;
+height:90px;
+position:absolute;
+top:50px;
+left:200px;
+}
+
+#ford{
+	
+width:140px;
+height:90px;
+position:absolute;
+top:50px;
+left:350px;
+}
+
+#honda{
+	
+width:140px;
+height:90px;
+position:absolute;
+top:50px;
+left:500px;
+}
+
+#hyundai{
+	
+width:140px;
+height:90px;
+position:absolute;
+top:50px;
+left:650px;
+}
+
+#mercedes{
+	
+width:140px;
+height:90px;
+position:absolute;
+top:50px;
+left:800px;
+}
+
+#opel{
+	
+width:140px;
+height:90px;
+position:absolute;
+top:200px;
+left:20px;
+}
+
+#renault{
+	
+width:140px;
+height:90px;
+position:absolute;
+top:200px;
+left:200px;
+}
+
+#seat{
+	
+width:140px;
+height:90px;
+position:absolute;
+top:200px;
+left:350px;
+}
+
+#skoda{
+	
+width:140px;
+height:90px;
+position:absolute;
+top:200px;
+left:500px;
+}
+
+#volkswagen{
+	
+width:140px;
+height:90px;
+position:absolute;
+top:200px;
+left:650px;
+}
+
+#volvo{
+	
+width:140px;
+height:90px;
+position:absolute;
+top:200px;
+left:800px;
+}
+
+h9{ 
+    display: block;
+    font-size: 23px;
+    margin-top: 20px;
+    margin-bottom: 0.67em;
+    margin-left: 270px;
+    margin-right: 0;
+    font-weight: bold;
+}	
+
+
+h10{ 
+    display: block;
+    font-size: 15px;
+    position:absolute;
+	top:85px;
+	left:20px;
+    font-weight: bold;
+}
+
+#fiat_egea{
+	
+width:250px;
+height:140px;
+position:absolute;
+top:120px;
+left:20px;
+}
+
+
+h11{ 
+    display: block;
+    font-size: 15px;
+    position:absolute;
+	top:85px;
+	left:320px;
+    font-weight: bold;
+}
+
+#renault_megane{
+	
+width:250px;
+height:140px;
+position:absolute;
+top:120px;
+left:320px;
+}
+
+h12{ 
+    display: block;
+    font-size: 15px;
+    position:absolute;
+	top:85px;
+	left:620px;
+    font-weight: bold;
+}
+
+#renault_clio{
+	
+width:250px;
+height:140px;
+position:absolute;
+top:120px;
+left:620px;
+}
+
+h13{ 
+    display: block;
+    font-size: 15px;
+    position:absolute;
+	top:285px;
+	left:20px;
+    font-weight: bold;
+}
+
+#volkswagen_passat{
+	
+width:250px;
+height:140px;
+position:absolute;
+top:320px;
+left:20px;
+}
+
+h14{ 
+    display: block;
+    font-size: 15px;
+    position:absolute;
+	top:285px;
+	left:320px;
+    font-weight: bold;
+}
+
+#toyota_corolla{
+	
+width:250px;
+height:140px;
+position:absolute;
+top:320px;
+left:320px;
+}
+
+h15{ 
+    display: block;
+    font-size: 15px;
+    position:absolute;
+	top:285px;
+	left:620px;
+    font-weight: bold;
+}
+
+#ford_focus{
+	
+width:250px;
+height:140px;
+position:absolute;
+top:320px;
+left:620px;
+}
+
+h16{ 
+    display: block;
+    font-size: 15px;
+    position:absolute;
+	top:485px;
+	left:20px;
+    font-weight: bold;
+}
+
+#renault_symbol{
+	
+width:250px;
+height:140px;
+position:absolute;
+top:520px;
+left:20px;
+}
+
+h17{ 
+    display: block;
+    font-size: 15px;
+    position:absolute;
+	top:485px;
+	left:320px;
+    font-weight: bold;
+}
+
+#volkswagen_polo{
+	
+width:250px;
+height:140px;
+position:absolute;
+top:520px;
+left:320px;
+}
+
+h18{ 
+    display: block;
+    font-size: 15px;
+    position:absolute;
+	top:485px;
+	left:620px;
+    font-weight: bold;
+}
+
+#opel_astra{
+	
+width:250px;
+height:140px;
+position:absolute;
+top:520px;
+left:620px;
+}
+
+h19{ 
+    display: block;
+    font-size: 15px;
+    position:absolute;
+	top:685px;
+	left:20px;
+    font-weight: bold;
+}
+
+#hyundai_i20{
+	
+width:250px;
+height:140px;
+position:absolute;
+top:720px;
+left:20px;
+}
